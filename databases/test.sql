@@ -8,3 +8,7 @@ create table 'student' (
 'klas' varchar(16) NOT NULL,
 );
 -- test
+
+insert into 'student' ('id', 'naam', 'klas') values
+(1, 'Alan', 'Havo4a'),
+(2, 'Bob', 'Havo4b');
