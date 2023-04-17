@@ -7,3 +7,4 @@ create table 'student' (
 'naam' text NOT NULL,
 'klas' varchar(16) NOT NULL,
 );
+-- test
