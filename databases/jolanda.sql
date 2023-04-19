@@ -1,3 +1,5 @@
+drop database if exists 'jolanda'
+
 create DATABASE 'jolanda';
 
 use 'jolanda';
